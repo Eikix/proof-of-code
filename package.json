@@ -1,0 +1,11 @@
+{
+  "name": "bridge-toy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.8"
+  }
+}
